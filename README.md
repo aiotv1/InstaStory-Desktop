@@ -1,5 +1,9 @@
 # InstaStory Desktop
 
+[![Download InstaStory Desktop](https://img.shields.io/badge/Download-InstaStory--Desktop.zip-d62976?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/aiotv1/InstaStory-Desktop/releases/latest/download/InstaStory-Desktop.zip)
+
+Always the latest version. Direct link: https://github.com/aiotv1/InstaStory-Desktop/releases/latest/download/InstaStory-Desktop.zip
+
 A Chrome extension that lets you **post Instagram stories from your computer**, directly on instagram.com, in a dialog that looks like Instagram itself. Photos and videos, with mentions, links, location, hashtags, polls, questions, quizzes, sliders, countdowns, emoji, photo stickers, music, custom fonts and saved styles.
 
 > ⚠️ This extension uses Instagram's web endpoints, which Instagram does not document or support for third parties. It can stop working at any time, and using automation on Instagram may violate its Terms of Use. Use it on your own account, at your own risk.
@@ -21,7 +25,7 @@ A Chrome extension that lets you **post Instagram stories from your computer**, 
 
 ### Install
 
-1. Download the latest `InstaStory-Desktop.zip` from the **Releases** page, or clone this repository.
+1. Click the **Download** button above (or use the **Releases** page), then unzip `InstaStory-Desktop.zip`.
 2. Unzip it (if needed) into a folder you will keep.
 3. Open `chrome://extensions`.
 4. Turn on **Developer mode** (top right).
@@ -67,6 +71,10 @@ Everything runs in your browser. The extension reads your existing Instagram ses
 
 ## العربية
 
+[![Download InstaStory Desktop](https://img.shields.io/badge/Download-InstaStory--Desktop.zip-d62976?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/aiotv1/InstaStory-Desktop/releases/latest/download/InstaStory-Desktop.zip)
+
+أحدث إصدار دائماً. الرابط المباشر: https://github.com/aiotv1/InstaStory-Desktop/releases/latest/download/InstaStory-Desktop.zip
+
 ### المزايا
 
 - افتح محرر الستوري من القائمة اليسرى في إنستغرام (عنصر **Story** بجانب Reels)، أو من الزر العائم، أو بالاختصار **Alt+Shift+S**.
@@ -80,7 +88,7 @@ Everything runs in your browser. The extension reads your existing Instagram ses
 
 ### التثبيت
 
-1. حمّل أحدث ملف `InstaStory-Desktop.zip` من صفحة **Releases**، أو انسخ (clone) هذا المستودع.
+1. اضغط زر **Download** أعلاه (أو من صفحة **Releases**)، ثم فك ضغط `InstaStory-Desktop.zip`.
 2. فك الضغط (إذا لزم) إلى مجلد تحتفظ به.
 3. افتح `chrome://extensions`.
 4. فعّل **Developer mode** من الأعلى على اليمين.
