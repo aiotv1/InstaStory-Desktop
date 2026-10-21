@@ -1,4 +1,6 @@
 # InstaStory Desktop
+<img width="1500" height="500" alt="New Project (3)" src="https://github.com/user-attachments/assets/fbfbf6f8-57af-43b7-92b6-f5368d647f58" />
+
 
 [![Download InstaStory Desktop](https://img.shields.io/badge/Download-InstaStory--Desktop.zip-d62976?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/aiotv1/InstaStory-Desktop/releases/latest/download/InstaStory-Desktop.zip)
 
